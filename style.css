@@ -1208,7 +1208,8 @@ strong {
     color: #ccd6f6;
     font-size: 13px;
     font-weight: 500;
-    word-break: break-word;
+    white-space: nowrap;
+    word-break: normal;
 }
 
 .contact-buttons {

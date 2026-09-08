@@ -1164,7 +1164,10 @@ strong {
     line-height: 1.8;
     margin-bottom: 40px;
 }
-
+.contact-item strong {
+    white-space: nowrap;
+    font-size: 16px;
+}
 .contact-details {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
